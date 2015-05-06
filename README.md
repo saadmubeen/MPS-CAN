@@ -17,22 +17,15 @@ How to get started?
 
 4.	Create a new node by clicking the “New Node” button. Specify various parameters such as CAN node, Ethernet node or a gateway.
 
-5.	After creating the nodes, create CAN messages by clicking the “New CAN Message” button. Enter the required parameters. 
+5.	After creating the nodes, create CAN messages by clicking the “New CAN Message” button. Enter the required parameters. Alternatively, Test-Input-for Version1.1.dat can also be loaded that contains a set of 50 CAN messages from one of the case studies.
 
 6.	Create Ethernet messages by clicking the “New Ethernet Message” button. Enter the required parameters. 
 
 7.	Click the “Analyze” button to calculate the worst-case response times of CAN messages, Ethernet messages, CAN-to-Ethernet global messages and the network utilization.
 
-
 =======
 MPS-CAN Analyzer Ver. 0.2
 =======
-How to get started?
-=======
-
-MPS-CAN Analyzer: Response time analyzer for Mixed Periodic and Sporadic messages in Controller Area Network (CAN). 
-It implements a number of response-time analyses for CAN addressing various queueing policies, buffer limitations in the CAN controllers, and various transmission modes implemented by higher-level protocols for CAN.
-
 How to get started?
 =======
 
