@@ -5,6 +5,12 @@ MPS-CAN Analyzer is a response time analyzer for Mixed Periodic and Sporadic mes
 It implements a number of response-time analyses for CAN addressing various queueing policies, buffer limitations in the CAN controllers, and various transmission modes implemented by higher-level protocols for CAN. It also integrates the response-time analysis for Ethernet AVB and CAN-to-Ethernet AVB Gateway.
 
 =======
+Installation
+=======
+There are two packages namely setup.exe and setup1.msi in the folder of each version of the tool. Please download and install setup.exe. In the case, if you are missing the required libraries then you can install setup1.msi first before installing setup.exe.
+
+
+=======
 MPS-CAN Analyzer Ver. 1.1
 =======
 How to get started?
