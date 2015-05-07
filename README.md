@@ -7,7 +7,7 @@ It implements a number of response-time analyses for CAN addressing various queu
 =======
 Installation
 =======
-There are two packages namely setup.exe and setup1.msi in the folder of each version of the tool. Please download and install setup.exe. In the case, if you are missing the required libraries then you can install setup1.msi first before installing setup.exe.
+There are two packages namely setup.exe and setup1.msi in the folder of each version of the tool. Please download and install setup.exe. In the case, if you are missing the required libraries then you can install setup1.msi that includes the tool.
 
 
 =======
